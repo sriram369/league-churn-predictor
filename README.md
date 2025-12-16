@@ -1,6 +1,4 @@
-I understand you used Colab's built-in "Save a copy in GitHub" feature, which created the repository with just your notebook. Now you need a professional README. Here is a comprehensive, layman-friendly README that explains your project clearly.
 
----
 
 # **League of Legends Player Churn Prediction System**
 
